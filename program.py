@@ -11,3 +11,4 @@ if operator== "/":
     print("The quotient of",num_1,"and",num_2,"is:",num_1//num_2)
 if operator== "%":
     print("The remainder of",num_1,"and",num_2,"is:",num_1%num_2)
+    #sucessfully completed
